@@ -1,0 +1,22 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.6.3",
+    "devtron": "^1.4.0",
+    "electron": "^7.0.1"
+  },
+  "dependencies": {
+    "electron-reload": "^1.5.0",
+    "electron-ui-kit": "^1.0.0",
+    "electron-window-state": "^5.0.3"
+  }
+}
